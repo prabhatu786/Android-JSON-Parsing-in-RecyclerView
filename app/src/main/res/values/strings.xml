@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerViewGridLayout</string>
+    <string name="Courses">Chemical Kinetics</string>
+    <string name="teachers">by Tarun Sharma Sir</string>
+    <string name="price">499</string>
+
+
+</resources>
